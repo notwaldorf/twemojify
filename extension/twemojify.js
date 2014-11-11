@@ -1,1 +1,1 @@
-twemoji.parse(document.body);
+twemoji.parse(document.body, {size:"16x16"});
