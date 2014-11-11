@@ -1,0 +1,1 @@
+twemoji.parse(document.body);
