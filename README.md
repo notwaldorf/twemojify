@@ -21,3 +21,5 @@ Create a bookmark (`emojify!` is a great name for it, p.s.) and set its url to:
 ```
 javascript:var i,s,ss=['//twemoji.maxcdn.com/twemoji.min.js','//rawgit.com/notwaldorf/twemojify/master/bookmarklet/twemojify.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
 ```
+
+Any time you feel a website is lacking the emoji you deserve, click the bookmarklet and make magic happen. Or just use the extension instead.
