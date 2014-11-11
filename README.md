@@ -1,7 +1,7 @@
 ✨twemojify✨
 =========
 
-We all know emoji doesn't work in Chrome, and that bug is assigned to me, and I don't know how to fix it, and I really like emoji. So I made some THINGS that use Twitter's new open source [emoji](https://blog.twitter.com/2014/open-sourcing-twitter-emoji-for-everyone) api and fixes the Internet. Ok? Ok. 🎉
+We all know emoji doesn't work in Chrome, and that bug is assigned to me, and I don't know how to fix it, and I really like emoji. So I made some THINGS that use Twitter's new open source [emoji](https://blog.twitter.com/2014/open-sourcing-twitter-emoji-for-everyone) api and fix the Internet. Ok? Ok. 🎉
 
 There are two things you can use. I recommend the extension for an out-of-sight-out-of-mind emoji immersive experience.
 
