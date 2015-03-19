@@ -8,6 +8,10 @@ There are two things you can use. I recommend the extension for an out-of-sight-
 ### A Chrome extension
 Before you panic: yes, the extension uses `*` permissions. This is because you want emoji always, right?
 
+Install `twemojify` from Google Chrome Webstore: https://chrome.google.com/webstore/detail/twemojify/bpolpdilcnncipnflhmniemhplkajgio
+
+or
+
 0. Clone this repo somewhere
 1. Go to `chrome://extensions`
 2. Check `Developer mode` and click on `Load unpacked extension`
