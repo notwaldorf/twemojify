@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+
+  "name" : "Twemojify",
+  "description" : "Uses Twitter's open source emoji to fix emoji in Chrome",
+  "version" : "1.0.0",
+
+  "permissions": [
+    "http://*/*"
+  ],
+
+  "icons": {
+    "16": "weee-16.png",
+    "36": "weee-36.png",
+    "128": "weee-128.png"
+  },
+
+  "content_scripts" : [
+    {
+      "matches" : [ "http://*/*", "https://*/*" ],
+      "js" : [ "twemoji.js", "twemojify.js"],
+      "run_at" : "document_idle",
+      "all_frames" : false
+    }
+  ]
+}
