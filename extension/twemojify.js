@@ -1,1 +1,1 @@
-twemoji.parse(document.body, {size:"16x16"});
+twemoji.parse(document.body, { attributes: function (icon, variant) { return { style: 'width: 16px;' }}});

@@ -1,5 +1,5 @@
 ✨twemojify✨
-=========
+=============
 
 We all know emoji doesn't work in Chrome, and that bug is assigned to me, and I don't know how to fix it, and I really like emoji. So I made some THINGS that use Twitter's new open source [emoji](https://blog.twitter.com/2014/open-sourcing-twitter-emoji-for-everyone) api and fix the Internet. Ok? Ok. 🎉
 
@@ -23,7 +23,7 @@ or
 Create a bookmark and set its url to:
 
 ```
-javascript:var i,s,ss=['//twemoji.maxcdn.com/twemoji.min.js','//rawgit.com/notwaldorf/twemojify/master/bookmarklet/twemojify.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
+javascript:var i,s,ss=['//twemoji.maxcdn.com/2/twemoji.min.js','//rawgit.com/notwaldorf/twemojify/master/bookmarklet/twemojify.js'];for(i=0;i!=ss.length;i++){s=document.createElement('script');s.src=ss[i];document.body.appendChild(s);}void(0);
 ```
 
 Any time you feel a website is lacking the emoji you deserve, click the bookmarklet and make magic happen. Or just use the extension instead.

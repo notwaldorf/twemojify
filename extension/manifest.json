@@ -3,7 +3,7 @@
 
   "name" : "Twemojify",
   "description" : "Uses Twitter's open source emoji to fix emoji in Chrome",
-  "version" : "1.0.0",
+  "version" : "2.0.0",
 
   "permissions": [
     "http://*/*"
